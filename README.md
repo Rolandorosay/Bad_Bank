@@ -2,6 +2,11 @@
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project only has frontend capabilities, it is not hooked up to any backend server. 
+
+##Future Progress
+
+I would like to keep working on this project in the future to better understand the concepts of creating websites. The "Sign Up" button is not functioning like how I want it to, and the though the pages are routed, I want them to host images and forms like a regular banking webiste does. This website will help me to build the other websites I have designed already. Later on, with some cleaning up of the code, this website can be used as a sample template for other websites I plan on building. It can be used as a portfolio website that links to projects I've built. There is still a lot I want to add to this project, but at the moment this is what I have completed. Thank you for chekcing out my Bad Bank website. Below is the link to view it live, hosted on AWS. 
 
 ## Available Scripts
 
