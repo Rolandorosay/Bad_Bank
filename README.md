@@ -7,7 +7,7 @@ I would like to keep working on this project in the future to better understand 
 
 There are a lot of features I'd like to add to this website, but that is a large project that will grow as I expand my programming knowledge. Thank you for checking out my bad bank website. Below is the link to view it live, hosted on AWS.
 
-https://********************
+----->  http://bad-bank-0.s3-website-us-east-1.amazonaws.com  <-----
 
 Available Scripts
 In the project directory, you can run:
