@@ -68,7 +68,7 @@ function Footer() {
               <i class='far fa-credit-card' />
             </Link>
           </div>
-          <small class='website-rights'>Bad Bank © 2021</small>
+          <small class='website-rights'>Bad Bank © 2023</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
